@@ -40,9 +40,12 @@ Interviewers have called out two things in particular: designing for agentic AI,
 ## Where she does her best work
 
 - On teams helping **define how agentic AI behaves and is experienced**, not just applying patterns someone else set.
-- With a **manager who sees the value of design** and gives it room. That person doesn't have to be a design manager.
-- With a **clear line of sight to shipping.**
+- In a **strong UX culture**, with leadership that sees the value of design, brings it in early, and protects the work.
+- With a **clear line of sight to shipping**, working with a team on concrete ideas.
+- Where the **bar for craft is high** and the work reaches people at scale.
 - She's happy designing for developers and enterprise users as well as consumers.
+
+For the full list of what she's looking for in her next role, and what she's like as a direct report, see `faq.md`.
 
 ## Outside of work
 
