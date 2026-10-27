@@ -28,14 +28,14 @@ I care about how technology *feels*. I make complex systems feel simple, human, 
 
 I also care about the people around me. I love mentoring and building communities. I led an in-person Claude Skills workshop for 200+ people, and at Amazon I hosted design events, managed speakers, and organized volunteering events.
 
-## What is she like as a direct report?
+## What I'm like as a direct report
 
-Low risk, high impact, and easy to trust. She:
+I'm low risk, high impact, and easy to trust. I:
 
-- Shares her thinking clearly and often, so her manager is never guessing where things stand.
-- Is proactive. She spots what needs doing and moves on it without being asked.
-- Responds quickly when someone needs something from her.
-- Treats people with kindness and respect.
+- Share my thinking clearly and often, so my manager is never guessing where things stand.
+- Am proactive. I spot what needs doing and move on it without being asked.
+- Respond quickly when someone needs something from me.
+- Treat people with kindness and respect.
 
 ---
 
