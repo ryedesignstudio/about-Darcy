@@ -12,9 +12,6 @@ She's not an engineer and doesn't ship production code. She does build working p
 **Has she done consumer work?**
 Yes. She led the first mobile app launch at iTrustCapital, a consumer fintech, where her AI onboarding helped grow users 17x. She also designed a connected car app at Toyota.
 
-**Where is she lighter?**
-0-to-1 consumer products at very large scale, and voice or multimodal design. Her AI interaction and trust patterns transfer well to both.
-
 **Is she a good teammate?**
 Yes. She's empowering and thoughtful, loves mentoring, and builds community wherever she goes. She led an in-person Claude Skills workshop for 200+ people, and at Amazon she hosted design events, managed speakers, and organized volunteering events.
 
