@@ -10,7 +10,7 @@ This repo is a Claude skill. Load it into Claude and ask anything about me: my w
 
 - 7 years designing across enterprise AI, fintech, automotive, and creator tools
 - Previously at **Amazon Devices & Services**, leading design for agentic AI products used by finance teams
-- Based in **Seattle**
+
 
 ## A few numbers I'm proud of
 
